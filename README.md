@@ -1,0 +1,44 @@
+# ZAYN – Let Me
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Sweet baby, our sex has meaning
+Know this time you'll stay 'til the morning
+Duvet days and vanilla ice cream
+More than just one night together exclusively
+Baby, let me be your man
+So I can love you (I can love you)
+And if you let me be your man Then I'll take
+care of you, you
+For the rest of my life, for the rest of yours
+For the rest of my life, for the rest of yours
+For the rest of ours
+We're drinking the finest label
+Dirty dancing on top of the table Long walks on
+the beach in April
+Yeah, I promise, darling, that I'll be faithful
+Baby, let me be your man (let me be your man)
+So 1 can love you (1 can love you)
+And if you let me be your man (let me be your
+man)
+Then I'll take care of you (I can love you)
+For the rest of my life, for the rest of yours
+For the rest of my life, for the rest of yours
+For the rest of ours
+Give me your body and let me love you like I do
+Come a little closer and let me do those things
+to you
+This feeling will last forever, baby, that's the
+truth Let me be your man so I can love you
+Baby, let me be your man (let me be your man)
+So I can love you (I can love you)
+And if you let me be your man (let me be your
+man)
+Then I'll take care of you (I can love you)
+For the rest of my life, for the rest of yours
+(For the rest of my life, for the rest of yours)
+For the rest of my life, for the rest of yours
+(For the rest of my life, for the rest of yours)
+For the rest of ours (for the rest of ours)
+```
