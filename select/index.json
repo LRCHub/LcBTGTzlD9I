@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Let Me",
+  "base_artist": "ZAYN",
+  "createdAt": "2025-12-11T16:25:21.583617Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let Me Mend the Past",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Let_Me_Mend_the_Past_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let Me Mend the Past",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Let_Me_Mend_the_Past_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let Me Mend The Past - Live in Madrid ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Let_Me_Mend_The_Past_-_Live_in_Madrid_’19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let Me Mend the Past (Live in Madrid '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_Let_Me_Mend_the_Past_(Live_in_Madrid_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(Let Me Be Your) Teddy Bear",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/05_(Let_Me_Be_Your)_Teddy_Bear_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bottle Let Me Down",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/06_Bottle_Let_Me_Down_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bottle Let Me Down (Remastered LP Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/07_Bottle_Let_Me_Down_(Remastered_LP_Version)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Let Me Cross Over",
+      "artist": "Carl Butler",
+      "has_synced": true,
+      "path": "select/08_Don't_Let_Me_Cross_Over_Carl_Butler.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Let Me Let Go",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/09_Let_Me_Let_Go_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let Me Let Go (Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/10_Let_Me_Let_Go_(Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let Me See Ya Girl",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/11_Let_Me_See_Ya_Girl_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let Me Tell You About Love",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/12_Let_Me_Tell_You_About_Love_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stop the World (And Let Me Off)",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/13_Stop_the_World_(And_Let_Me_Off)_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stop the World (And Let Me Off)",
+      "artist": "Waylon Jennings",
+      "has_synced": true,
+      "path": "select/14_Stop_the_World_(And_Let_Me_Off)_Waylon_Jennings.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Let Me Fall",
+      "artist": "Lenka",
+      "has_synced": true,
+      "path": "select/15_Don't_Let_Me_Fall_Lenka.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "투명 우산 Don’t Let Me Go",
+      "artist": "SHINee",
+      "has_synced": true,
+      "path": "select/16_투명_우산_Don’t_Let_Me_Go_SHINee.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "투명 우산 (Don't Let Me Go)",
+      "artist": "SHINee",
+      "has_synced": true,
+      "path": "select/17_투명_우산_(Don't_Let_Me_Go)_SHINee.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bounce (Let Me See Ya Throw It)",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/18_Bounce_(Let_Me_See_Ya_Throw_It)_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let Me",
+      "artist": "ZAYN",
+      "has_synced": false,
+      "path": "select/pl_01_Let_Me_ZAYN.txt"
+    }
+  ]
+}
